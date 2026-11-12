@@ -1,0 +1,7 @@
+Flask>=2.0
+APScheduler>=3.8
+requests>=2.25
+python-dotenv>=1.0
+pandas>=1.0
+sqlalchemy>=1.4
+cloudscraper>=1.2
